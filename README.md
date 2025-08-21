@@ -50,12 +50,5 @@ La base de datos incluye información sobre vuelos, pasajeros, aerolíneas, prec
 
 ---
 
-## 🚀 Próximos pasos  
-- Conectar la vista `flight_data_cleaned` a **Power BI** o **Tableau** para generar dashboards interactivos.  
-- Profundizar en análisis predictivo (ej. modelos de probabilidad de retrasos).  
-- Incorporar métricas de rentabilidad por ruta o por aerolínea.  
-
----
-
 ## 📌 Autor  
 👤 **Brian Cabral**  
