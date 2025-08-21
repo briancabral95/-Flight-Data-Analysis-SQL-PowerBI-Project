@@ -1,4 +1,4 @@
-# ✈️ Flight Data Analysis – SQL Project  
+# ✈️ Flight Data Analysis – SQL / Power BI Project  
 
 ## 📌 Objetivo del proyecto  
 Este proyecto tiene como finalidad **explorar, limpiar y transformar datos de vuelos** utilizando **SQL**, con el objetivo de obtener **KPIs relevantes para la industria aérea**.  
